@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Evolution Source="#1=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;SingleOptionCommand&gt;k__BackingField" Target="#2=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;SingleOptionCommand&gt;k__OriginalField" />
+  <Evolution Source="#2" Target="#3=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{SingleOptionCommand}k__BackingField()" />
+  <Evolution Source="#4=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Question&gt;k__BackingField" Target="#5=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Question&gt;k__OriginalField" />
+  <Evolution Source="#5" Target="#6=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{Question}k__BackingField()" />
+  <Evolution Source="#7=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Id&gt;k__BackingField" Target="#8=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Id&gt;k__OriginalField" />
+  <Evolution Source="#8" Target="#9=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{Id}k__BackingField()" />
+  <Evolution Source="#10=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Content&gt;k__BackingField" Target="#11=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Content&gt;k__OriginalField" />
+  <Evolution Source="#11" Target="#12=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{Content}k__BackingField()" />
+  <Evolution Source="#13=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Description&gt;k__BackingField" Target="#14=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Description&gt;k__OriginalField" />
+  <Evolution Source="#14" Target="#15=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{Description}k__BackingField()" />
+  <Evolution Source="#16=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;RadioGroupName&gt;k__BackingField" Target="#17=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;RadioGroupName&gt;k__OriginalField" />
+  <Evolution Source="#17" Target="#18=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{RadioGroupName}k__BackingField()" />
+  <Evolution Source="#19=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MinValue&gt;k__BackingField" Target="#20=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MinValue&gt;k__OriginalField" />
+  <Evolution Source="#20" Target="#21=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{MinValue}k__BackingField()" />
+  <Evolution Source="#22=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MaxValue&gt;k__BackingField" Target="#23=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MaxValue&gt;k__OriginalField" />
+  <Evolution Source="#23" Target="#24=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{MaxValue}k__BackingField()" />
+  <Evolution Source="#25=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MinLabel&gt;k__BackingField" Target="#26=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MinLabel&gt;k__OriginalField" />
+  <Evolution Source="#26" Target="#27=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{MinLabel}k__BackingField()" />
+  <Evolution Source="#28=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MaxLabel&gt;k__BackingField" Target="#29=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;MaxLabel&gt;k__OriginalField" />
+  <Evolution Source="#29" Target="#30=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{MaxLabel}k__BackingField()" />
+  <Evolution Source="#31=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;DropList&gt;k__BackingField" Target="#32=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;DropList&gt;k__OriginalField" />
+  <Evolution Source="#32" Target="#33=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{DropList}k__BackingField()" />
+  <Evolution Source="#34=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Condition&gt;k__BackingField" Target="#35=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::&lt;Condition&gt;k__OriginalField" />
+  <Evolution Source="#35" Target="#36=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::{Condition}k__BackingField()" />
+  <Evolution Source="#37=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;CurrentSectionViewModel&gt;k__BackingField" Target="#38=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;CurrentSectionViewModel&gt;k__OriginalField" />
+  <Evolution Source="#38" Target="#39=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{CurrentSectionViewModel}k__BackingField()" />
+  <Evolution Source="#40=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;CurrentSectionView&gt;k__BackingField" Target="#41=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;CurrentSectionView&gt;k__OriginalField" />
+  <Evolution Source="#41" Target="#42=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{CurrentSectionView}k__BackingField()" />
+  <Evolution Source="#43=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;Text&gt;k__BackingField" Target="#44=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;Text&gt;k__OriginalField" />
+  <Evolution Source="#44" Target="#45=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{Text}k__BackingField()" />
+  <Evolution Source="#46=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;Description&gt;k__BackingField" Target="#47=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;Description&gt;k__OriginalField" />
+  <Evolution Source="#47" Target="#48=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{Description}k__BackingField()" />
+  <Evolution Source="#49=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;QuestionnaireModel&gt;k__BackingField" Target="#50=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;QuestionnaireModel&gt;k__OriginalField" />
+  <Evolution Source="#50" Target="#51=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{QuestionnaireModel}k__BackingField()" />
+  <Evolution Source="#52=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;CurrentSectionId&gt;k__BackingField" Target="#53=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;CurrentSectionId&gt;k__OriginalField" />
+  <Evolution Source="#53" Target="#54=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{CurrentSectionId}k__BackingField()" />
+  <Evolution Source="#55=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;NextSectionCommand&gt;k__BackingField" Target="#56=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;NextSectionCommand&gt;k__OriginalField" />
+  <Evolution Source="#56" Target="#57=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{NextSectionCommand}k__BackingField()" />
+  <Evolution Source="#58=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;PreviousSectionCommand&gt;k__BackingField" Target="#59=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;PreviousSectionCommand&gt;k__OriginalField" />
+  <Evolution Source="#59" Target="#60=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{PreviousSectionCommand}k__BackingField()" />
+  <Evolution Source="#61=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;FinnishCommand&gt;k__BackingField" Target="#62=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::&lt;FinnishCommand&gt;k__OriginalField" />
+  <Evolution Source="#62" Target="#63=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{FinnishCommand}k__BackingField()" />
+  <Evolution Source="#64=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::_answer" Target="#65=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;_answer&gt;k__OriginalField" />
+  <Evolution Source="#65" Target="#66=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::_answer()" />
+  <Evolution Source="#67=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::_optionsViewModelView" Target="#68=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;_optionsViewModelView&gt;k__OriginalField" />
+  <Evolution Source="#68" Target="#69=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::_optionsViewModelView()" />
+  <Evolution Source="#70=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;IsMandatory&gt;k__BackingField" Target="#71=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;IsMandatory&gt;k__OriginalField" />
+  <Evolution Source="#71" Target="#72=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::{IsMandatory}k__BackingField()" />
+  <Evolution Source="#73=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Text&gt;k__BackingField" Target="#74=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Text&gt;k__OriginalField" />
+  <Evolution Source="#74" Target="#75=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::{Text}k__BackingField()" />
+  <Evolution Source="#76=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Description&gt;k__BackingField" Target="#77=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Description&gt;k__OriginalField" />
+  <Evolution Source="#77" Target="#78=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::{Description}k__BackingField()" />
+  <Evolution Source="#79=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;TargetSectionId&gt;k__BackingField" Target="#80=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;TargetSectionId&gt;k__OriginalField" />
+  <Evolution Source="#80" Target="#81=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::{TargetSectionId}k__BackingField()" />
+  <Evolution Source="#82=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Options&gt;k__BackingField" Target="#83=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Options&gt;k__OriginalField" />
+  <Evolution Source="#83" Target="#84=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::{Options}k__BackingField()" />
+  <Evolution Source="#85=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;QuestionType&gt;k__BackingField" Target="#86=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;QuestionType&gt;k__OriginalField" />
+  <Evolution Source="#86" Target="#87=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::{QuestionType}k__BackingField()" />
+  <Evolution Source="#88=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Id&gt;k__BackingField" Target="#89=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::&lt;Id&gt;k__OriginalField" />
+  <Evolution Source="#89" Target="#90=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::{Id}k__BackingField()" />
+  <Evolution Source="#91=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::_questionsViewModelView" Target="#92=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;_questionsViewModelView&gt;k__OriginalField" />
+  <Evolution Source="#92" Target="#93=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::_questionsViewModelView()" />
+  <Evolution Source="#94=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Text&gt;k__BackingField" Target="#95=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Text&gt;k__OriginalField" />
+  <Evolution Source="#95" Target="#96=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::{Text}k__BackingField()" />
+  <Evolution Source="#97=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Description&gt;k__BackingField" Target="#98=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Description&gt;k__OriginalField" />
+  <Evolution Source="#98" Target="#99=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::{Description}k__BackingField()" />
+  <Evolution Source="#100=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Questions&gt;k__BackingField" Target="#101=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Questions&gt;k__OriginalField" />
+  <Evolution Source="#101" Target="#102=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::{Questions}k__BackingField()" />
+  <Evolution Source="#103=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Id&gt;k__BackingField" Target="#104=F:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::&lt;Id&gt;k__OriginalField" />
+  <Evolution Source="#104" Target="#105=P:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::{Id}k__BackingField()" />
+  <Class Class="#106=T:[PostSharp.Patterns.Model]PostSharp.Patterns.Model.NotifyPropertyChangedAttribute">
+    <Instance Declaration="#107=T:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel" Id="1ad9be375e542baa">
+      <Target>
+        <JoinPoint Advising="#106" Description="#108=Introduce event PropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#109=Introduce method remove_PropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#110=Introduce method add_PropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#111=Introduce event ChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#112=Introduce method add_ChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#113=Introduce method remove_ChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#114=Introduce method OnPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#115=Introduce method OnChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#116=Introduce interface(s) INotifyChildPropertyChanged, INotifyPropertyChanged" Ordinal="0" />
+        <JoinPoint Advised="#117=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_SingleOptionCommand()" Advising="#106" Description="#118=Intercepted by advice OnPropertyGet" Semantic="Getter" />
+        <JoinPoint Advised="#117" Advising="#106" Description="#119=Wrapped by advice(s) OnMethodEntry, OnMethodExit" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#120=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_SingleOptionCommand(System.Windows.Input.ICommand)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#121=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_Question([QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#122=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_Question()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#122" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#123=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_Id()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#123" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#124=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_Id(System.Int32)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#125=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_Content()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#125" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#126=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_Content(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#127=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_Description()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#127" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#128=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_Description(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#129=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_RadioGroupName(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#130=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_RadioGroupName()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#130" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#131=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_MinValue()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#131" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#132=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_MinValue(System.Int32)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#133=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_MaxValue(System.Int32)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#134=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_MaxValue()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#134" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#135=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_MinLabel(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#136=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_MinLabel()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#136" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#137=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_MaxLabel()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#137" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#138=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_MaxLabel(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#139=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_DropList()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#139" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#140=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_DropList(System.Collections.Generic.List{System.String})" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#141=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::get_Condition()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#141" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#142=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel::set_Condition([QuestionnaireApp]QuestionnaireApp.ViewModels.Condition)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#2" Advising="#106" Description="#143=Intercepted by advice OnFieldSet" Semantic="Setter" />
+        <JoinPoint Advised="#5" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#8" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#11" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#14" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#17" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#20" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#23" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#26" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#29" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#32" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#35" Advising="#106" Description="#143" Semantic="Setter" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#144=T:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel" Id="1ad9be37ceb32e39">
+      <Target>
+        <JoinPoint Advising="#106" Description="#108" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#109" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#110" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#111" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#112" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#113" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#114" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#115" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#116" Ordinal="0" />
+        <JoinPoint Advised="#145=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_CurrentSectionViewModel()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#145" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#146=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_CurrentSectionViewModel([QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#147=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_CurrentSectionView()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#147" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#148=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_CurrentSectionView([QuestionnaireApp]QuestionnaireApp.Views.SectionView)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#149=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_Text(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#150=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_Text()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#150" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#151=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_Description()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#151" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#152=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_Description(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#153=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_QuestionnaireModel([QuestionnaireApp]QuestionnaireApp.Models.Questionnaire)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#154=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_QuestionnaireModel()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#154" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#155=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_CurrentSectionId(System.Int32)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#156=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_CurrentSectionId()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#156" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#157=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_NextSectionCommand()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#157" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#158=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_NextSectionCommand(System.Windows.Input.ICommand)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#159=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_PreviousSectionCommand()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#159" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#160=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_PreviousSectionCommand(System.Windows.Input.ICommand)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#161=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::get_FinnishCommand()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#161" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#162=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::set_FinnishCommand(System.Windows.Input.ICommand)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#163=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::SaveAnswers()" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#164=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::GetOpenedSectionCount()" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#165=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::MoveSection(System.Boolean)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#166=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::GetSectionsCount()" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#167=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::LoadSection(System.Int32)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#168=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{SaveAnswers}b__0(System.Collections.Generic.KeyValuePair{[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel,[QuestionnaireApp]QuestionnaireApp.Views.SectionView})" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#169=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionnaireViewModel::{MoveSection}b__d(System.Int32)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#38" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#41" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#44" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#47" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#50" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#53" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#56" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#59" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#62" Advising="#106" Description="#143" Semantic="Setter" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#170=T:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel" Id="1ad9be37cb9deeeb">
+      <Target>
+        <JoinPoint Advising="#106" Description="#108" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#109" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#110" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#111" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#112" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#113" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#114" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#115" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#116" Ordinal="0" />
+        <JoinPoint Advised="#171=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_IsMandatory()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#171" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#172=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_IsMandatory(System.Boolean)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#173=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_Text()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#173" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#174=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_Text(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#175=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_Description()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#175" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#176=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_Description(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#177=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_TargetSectionId()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#177" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#178=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_TargetSectionId(System.Int32)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#179=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_Options()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#179" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#180=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_Options(System.Collections.ObjectModel.ObservableCollection{System.Object})" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#181=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_QuestionType()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#181" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#182=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_QuestionType([QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionType)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#183=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_OptionsViewModelView()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#183" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#184=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_Id()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#184" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#185=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_Id(System.Int32)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#186=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::get_Answer()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#186" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#187=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::set_Answer(System.Object)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#188=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeMultipleOption(System.Collections.Generic.IEnumerable{[QuestionnaireApp]QuestionnaireApp.Models.QuestionnaireSectionQuestionOption})" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#189=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeRadio([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#190=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeCheckbox([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#191=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeScale([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#192=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeText([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#193=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeNumber([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#194=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeDate([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#195=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeDropDown([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#196=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.QuestionViewModel::MakeSingleOption([QuestionnaireApp]QuestionnaireApp.ViewModels.OptionViewModel)" Advising="#106" Description="#119" />
+        <JoinPoint Advised="#65" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#68" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#71" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#74" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#77" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#80" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#83" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#86" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#89" Advising="#106" Description="#143" Semantic="Setter" />
+      </Target>
+    </Instance>
+    <Instance Declaration="#197=T:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel" Id="1ad9be37f812b6a1">
+      <Target>
+        <JoinPoint Advising="#106" Description="#108" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#109" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#110" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#111" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#112" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#113" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#114" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#115" Ordinal="0" />
+        <JoinPoint Advising="#106" Description="#116" Ordinal="0" />
+        <JoinPoint Advised="#198=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::get_Text()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#198" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#199=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::set_Text(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#200=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::get_Description()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#200" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#201=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::set_Description(System.String)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#202=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::set_Questions(System.Collections.ObjectModel.ObservableCollection{[QuestionnaireApp]QuestionnaireApp.Views.QuestionView})" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#203=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::get_Questions()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#203" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#204=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::get_Id()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#204" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#205=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::set_Id(System.Int32)" Advising="#106" Description="#119" Semantic="Setter" Ordinal="2" />
+        <JoinPoint Advised="#206=M:[QuestionnaireApp]QuestionnaireApp.ViewModels.SectionViewModel::get_QuestionsViewModelView()" Advising="#106" Description="#118" Semantic="Getter" />
+        <JoinPoint Advised="#206" Advising="#106" Description="#119" Semantic="Getter" Ordinal="2" />
+        <JoinPoint Advised="#92" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#95" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#98" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#101" Advising="#106" Description="#143" Semantic="Setter" />
+        <JoinPoint Advised="#104" Advising="#106" Description="#143" Semantic="Setter" />
+      </Target>
+    </Instance>
+  </Class>
+</Symbols>

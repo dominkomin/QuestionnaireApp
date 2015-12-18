@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Questionnaire>
+	<Text>ITU MSc Students</Text>
+	<Description>This questionnaire is intended for Games and SD students only.</Description>
+	<Sections>
+		<Section id="1">
+			<Text>Personal Information</Text>
+			<Questions>
+				<Question id="2">
+					<Text>Full Name</Text>
+					<Description>Enter your full name</Description>
+					<IsMandatory>true</IsMandatory>
+					<Type/>
+					<Options>
+						<Option id="3">
+							<Text>Name</Text>
+						</Option>
+					</Options>
+				</Question>
+				<Question id="4">
+					<Text>Date of birth</Text>
+					<IsMandatory>false</IsMandatory>
+					<Type>Date</Type>
+					<Options>
+						<Option id="5">
+							<Text>yyyy-mm-dd</Text>
+						</Option>
+					</Options>
+				</Question>
+				<Question id="6">
+					<Text>Where are you from?</Text>
+					<IsMandatory>false</IsMandatory>
+					<Type>Dropdown</Type>
+					<Options>
+						<Option id="7">
+							<Text>Europe</Text>
+						</Option>
+						<Option id="8">
+							<Text>Africa</Text>
+						</Option>
+						<Option id="9">
+							<Text>America</Text>
+						</Option>
+						<Option id="10">
+							<Text>Asia</Text>
+						</Option>
+						<Option id="11">
+							<Text>Oceania</Text>
+						</Option>
+					</Options>
+				</Question>
+			</Questions>
+		</Section>
+		<Section id="12">
+			<Text>Academic information</Text>
+			<Questions>
+				<Question id="13">
+					<Text>Are you an active student?</Text>
+					<IsMandatory>false</IsMandatory>
+					<Type>Radio</Type>
+					<Condition>
+						<TargetSectionId>All</TargetSectionId>
+					</Condition>
+					<Options>
+						<Option id="14">
+							<Text>Yes</Text>
+						</Option>
+						<Option id="15">
+							<Text>No</Text>
+						</Option>
+					</Options>
+				</Question>
+				<Question id="16">
+					<Text>What is your study program?</Text>
+					<Description>Not available for other programs</Description>
+					<IsMandatory>false</IsMandatory>
+					<Type>Radio</Type>
+					<Options>
+						<Option id="17">
+							<Text>Games</Text>
+							<Description/>
+							<Condition>
+								<TargetSectionId>Game students</TargetSectionId>
+							</Condition>
+						</Option>
+						<Option id="18">
+							<Text>Software Development</Text>
+							<Description/>
+							<Condition>
+								<TargetSectionId>SE students</TargetSectionId>
+							</Condition>
+						</Option>
+					</Options>
+				</Question>
+			</Questions>
+		</Section>
+		<Section id="19">
+			<Text>Game students</Text>
+			<Questions>
+				<Question id="20">
+					<Text>What are your favorite games</Text>
+					<IsMandatory>false</IsMandatory>
+					<Type>Checkbox</Type>
+					<Condition>
+						<TargetSectionId>All</TargetSectionId>
+					</Condition>
+					<Options>
+						<Option id="21">
+							<Text>GTA V</Text>
+						</Option>
+						<Option id="22">
+							<Text>Diablo III</Text>
+						</Option>
+						<Option id="23">
+							<Text>FIFA '14</Text>
+							<Description/>
+							<Condition>
+								<TargetSectionId>Football</TargetSectionId>
+							</Condition>
+						</Option>
+						<Option id="24">
+							<Text>None of the above</Text>
+						</Option>
+					</Options>
+				</Question>
+			</Questions>
+		</Section>
+		<Section id="25">
+			<Text>Football</Text>
+			<Questions>
+				<Question id="26">
+					<Text>Do you like playing football?</Text>
+					<IsMandatory>false</IsMandatory>
+					<Type>Radio</Type>
+					<Condition>
+						<TargetSectionId>All</TargetSectionId>
+					</Condition>
+					<Options>
+						<Option id="27">
+							<Text>Yes</Text>
+						</Option>
+						<Option id="28">
+							<Text>No</Text>
+						</Option>
+					</Options>
+				</Question>
+			</Questions>
+		</Section>
+		<Section id="29">
+			<Text>SE students</Text>
+			<Questions>
+				<Question id="30">
+					<Text>How many ECTS points do you have?</Text>
+					<IsMandatory>false</IsMandatory>
+					<Type>Number</Type>
+					<Condition>
+						<TargetSectionId>All</TargetSectionId>
+					</Condition>
+					<Options>
+						<Option id="31">
+							<Text>number</Text>
+							<Description/>
+							<Condition>
+								<Value>120</Value>
+								<Operator>&gt;</Operator>
+								<TargetSectionId>SE students</TargetSectionId>
+							</Condition>
+						</Option>
+					</Options>
+				</Question>
+			</Questions>
+		</Section>
+		<Section id="32">
+			<Text>All</Text>
+			<Description>Final section</Description>
+			<Questions>
+				<Question id="33">
+					<Text>Final comments</Text>
+					<IsMandatory>false</IsMandatory>
+					<Type>Textarea</Type>
+					<Options>
+						<Option id="34">
+							<Text>Comments please</Text>
+						</Option>
+					</Options>
+				</Question>
+			</Questions>
+		</Section>
+	</Sections>
+</Questionnaire>

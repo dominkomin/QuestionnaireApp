@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Questionnaire>
+  <Text>Do you like Denmark?</Text>
+  <Description>Questionnaire will sey if u like Denamk or not.</Description>
+  <Sections>
+    <Section id="1">
+      <Text>Basic questions</Text>
+      <Description>First section which contains basic questions about u and Denmark</Description>
+      <Questions>
+        <Question id="1">
+          <Text>Do you live in Denmark?</Text>
+          <IsMandatory>true</IsMandatory>
+          <Type>Radio</Type>
+          <Description>Choose a part of Denmark you are living in</Description>
+          <Options>
+            <Option id="1">
+              <Description>You do not live in Denmark</Description>
+              <Content>No</Content>
+              <Condition>
+                <ExpectedValue>No</ExpectedValue>
+                <Operator>EQ</Operator>
+                <TargetSectionId>3</TargetSectionId>
+              </Condition>
+            </Option>
+            <Option id="2">
+              <Description>You live in Denmark</Description>
+              <Content>Yes</Content>
+            </Option>
+          </Options>
+        </Question>
+        <Question id="2">
+          <Text>Where do you live in Denmark?</Text>
+          <IsMandatory>false</IsMandatory>
+          <Type>Checkbox</Type>
+          <Description>Do you live in Denmark?</Description>
+          <Options>
+            <Option id="1">
+              <Description>Gaaayy!</Description>
+              <Content>Jutland</Content>
+            </Option>
+            <Option id="2">
+              <Content>Funen</Content>
+            </Option>
+            <Option id="3">
+              <Content>Zealand</Content>
+            </Option>
+            <Option id="4">
+              <Content>Other</Content>
+            </Option>
+          </Options>
+        </Question>
+      </Questions>
+    </Section>
+    <Section id="2">
+      <Text>Life in Denmark</Text>
+      <Questions>
+        <Question id="1">
+          <Text>What do you think about danish food?</Text>
+          <IsMandatory>true</IsMandatory>
+          <Type>Scale</Type>
+          <Description>Score food in Denmark, 1 is the best, 4 is the worst.</Description>
+          <Options>
+            <Option id="1">
+              <Description>Very Good</Description>
+              <Content>1</Content>
+            </Option>
+            <Option id="2">
+              <Description>Good</Description>
+              <Content>2</Content>
+            </Option>
+            <Option id="3">
+              <Description>Bad</Description>
+              <Content>3</Content>
+            </Option>
+            <Option id="4">
+              <Description>Very Bad</Description>
+              <Content>4</Content>
+            </Option>
+          </Options>
+        </Question>
+        <Question id="2">
+          <Text>Which touristy things have you done in Denmark?</Text>
+          <IsMandatory>false</IsMandatory>
+          <Type>Checkbox</Type>
+          <Description>Mark places you have visited.</Description>
+          <Options>
+            <Option id="1">
+              <Description></Description>
+              <Content>Legoland</Content>
+            </Option>
+            <Option id="2">
+              <Description></Description>
+              <Content>Lille Havfrue</Content>
+            </Option>
+            <Option id="3">
+              <Description></Description>
+              <Content>Walked through Strøget, Copenhagen</Content>
+            </Option>
+          </Options>
+        </Question>
+      </Questions>
+    </Section>
+    <Section id="3">
+      <Text>Life outside Denmark</Text>
+      <Questions>
+        <Question id="1">
+          <Text>In which country do you live?</Text>
+          <IsMandatory>true</IsMandatory>
+          <Type>Text</Type>
+          <Description>Write a country name where you are living in.</Description>
+          <Options>
+            <Option id="1">
+              <Description>Your country name.</Description>
+            </Option>
+          </Options>
+        </Question>
+        <Question id="2">
+          <Text>When did you leave Denmark?</Text>
+          <IsMandatory>false</IsMandatory>
+          <Type>Date</Type>
+          <Description>Pick the date when you left Denmark.</Description>
+          <Options>
+            <Option id="1">
+              <Description>Date when you left Denmark.</Description>
+            </Option>
+          </Options>
+        </Question>
+      </Questions>
+    </Section>
+  </Sections>
+</Questionnaire>

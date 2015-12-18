@@ -1,0 +1,30 @@
+﻿<controls:MetroWindow x:Class="QuestionnaireApp.Views.MainWindow"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:viewModels="clr-namespace:QuestionnaireApp.ViewModels"
+                      Title="Questionnaire App" Height="350" Width="280"
+                      MinWidth="280" MinHeight="350"
+                      x:Name="Window"
+                      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      mc:Ignorable="d"
+                      d:DataContext="{d:DesignInstance Type=viewModels:QuestionnaireViewModel}"
+                      xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro">
+
+	<DockPanel Margin="16">
+		<StackPanel DockPanel.Dock="Top" HorizontalAlignment="Stretch" MinWidth="300">
+			<Label Content="{Binding Text}" ToolTip="{Binding Description}" FontSize="18" FontWeight="Bold"/>
+			<ContentControl Content="{Binding CurrentSectionView}" HorizontalAlignment="Stretch"/>
+		</StackPanel>
+		<StackPanel
+			Orientation="Horizontal"
+			HorizontalAlignment="Right"
+			VerticalAlignment="Bottom"
+			DockPanel.Dock="Bottom"
+			Margin="0, 30, 0, 0">
+			<Button Content="Back" Command="{Binding PreviousSectionCommand}" />
+			<Button Content="Next" Command="{Binding NextSectionCommand}" Margin="10, 0, 10, 0" />
+			<Button Content="Save" Command="{Binding FinnishCommand}" />
+		</StackPanel>
+	</DockPanel>
+</controls:MetroWindow>
